@@ -31,14 +31,7 @@
     <!-- Responsive CSS -->
     <link rel="stylesheet" href="<?php echo base_url()?>assets/frontend2\css\responsive.css">
 
-
-      <link rel="stylesheet" href="  https://cdn.datatables.net/1.11.1/css/jquery.dataTables.min.css">
-
-
-
-
-
-
+    <link rel="stylesheet" href="  https://cdn.datatables.net/1.11.1/css/jquery.dataTables.min.css">
     <title>B-Data - Big Data & Analytics HTML Template</title>
     <link rel="icon" type="image/png" href="<?php echo base_url()?>assets/frontend\images\logo_baru.png">
 </head>
@@ -57,8 +50,47 @@
         </div>
     </div>
     <!--end preloder-->
-
-
+    <!-- Navber Area Start -->
+    <div class="navbar-area box-shadow" id="bg-white">
+       <div class="plamb-responsive-nav">
+          <div class="container">
+             <div class="plamb-responsive-menu">
+                <div class="logo">
+                   <a href="index.html">
+                   <img src="<?php echo base_url()?>assets/frontend2/img\common\logo.png" class="white-logo" alt="logo">
+                   <img src="<?php echo base_url()?>assets/frontend2/img\common\logo.png" class="black-logo" alt="logo">
+                   </a>
+                </div>
+             </div>
+          </div>
+       </div>
+       <div class="plamb-nav">
+          <div class="container">
+             <nav class="navbar navbar-expand-md navbar-light">
+                <a class="navbar-brand" href="index.html">
+                <img src="<?php echo base_url()?>assets/frontend2/img\common\logo-3.png" class="white-logo" alt="logo">
+                <img src="<?php echo base_url()?>assets/frontend2/img\common\logo-3.png" class="black-logo" alt="logo">
+                </a>
+                <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                   <ul class="navbar-nav">
+                      <li class="nav-item"><a href="<?php echo base_url()?>b_data" class="nav-link">Home</a></li>
+                      <li class="nav-item"><a href="<?php echo base_url()?>dataset" class="nav-link">Data</a></li>
+                      <!-- <li class="nav-item"> <a href="#!" class="nav-link">Dataset<i class="fas fa-chevron-down"></i></a>
+                         <ul class="dropdown-menu">
+                             <li class="nav-item"><a href="service.html" class="nav-link">BPS</a></li>
+                             <li class="nav-item"><a href="service-2.html" class="nav-link">Sektoral</a></li>
+                             <li class="nav-item"><a href="service-details.html" class="nav-link">Kecamatan</a></li>
+                         </ul>
+                         </li> -->
+                      <li class="nav-item"> <a href="#!" class="nav-link">Publikasi</a></li>
+                      <li class="nav-item"> <a href="#!" class="nav-link">Request Data</a></li>
+                   </ul>
+                </div>
+             </nav>
+          </div>
+       </div>
+    </div>
+    <!-- Navbar Area End -->
 
 
     <?php $this->load->view($layout); ?>
