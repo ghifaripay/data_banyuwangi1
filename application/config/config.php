@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = '';
-$config['base_url'] = 'http://' . $_SERVER['HTTP_HOST'] . '/data_banyuwangi/';
+$config['base_url'] = 'http://' . $_SERVER['HTTP_HOST'] . '/data_banyuwangi1/';
 // $config['gambar']	= 'http://' . $_SERVER['HTTP_HOST'] . '/satu_data/assets/uploads';
 /*
 |--------------------------------------------------------------------------
