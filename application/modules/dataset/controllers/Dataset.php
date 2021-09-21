@@ -12,7 +12,7 @@ class Dataset extends MY_Controller {
     {
     			$data = array(
       			'title'      =>  'Banyuwangi Satu Data',
-      			'layout'     =>  'v_dataset2',
+      			'layout'     =>  'v_dataset',
 
       			);
     			$this->load->view('frontend/layout2',$data);

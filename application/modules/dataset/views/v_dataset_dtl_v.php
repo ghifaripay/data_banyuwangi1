@@ -30,7 +30,7 @@
                             <li class="nav-item"><a href="service-details.html" class="nav-link">Kecamatan</a></li>
                         </ul>
                     </li> -->
-                    <li class="nav-item"> <a href="#!" class="nav-link">publikasii</a></li>
+                    <li class="nav-item"> <a href="#!" class="nav-link">publikasi</a></li>
                     <li class="nav-item"> <a href="#!" class="nav-link">Request Data</a></li>
                 </ul>
                 <div class="other-option"> <a class="btn btn-theme" href="contact.html">Login</a></div>
