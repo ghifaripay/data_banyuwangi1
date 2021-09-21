@@ -21,7 +21,7 @@
             </a>
             <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a href="<?php echo base_url()?>b_data" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="<?php echo base_url()?>b_data" class="nav-link">Homeeeeeeeeeeeeeeeeeeee</a></li>
                     <li class="nav-item"><a href="<?php echo base_url()?>dataset" class="nav-link">Dataset</a></li>
                     <!-- <li class="nav-item"> <a href="#!" class="nav-link">Dataset<i class="fas fa-chevron-down"></i></a>
                         <ul class="dropdown-menu">
