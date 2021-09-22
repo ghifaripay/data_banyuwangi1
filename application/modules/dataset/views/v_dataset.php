@@ -15,14 +15,14 @@
  <div class="plamb-nav">
     <div class="container">
         <nav class="navbar navbar-expand-md navbar-light">
-            <a class="navbar-brand" href="index.html">
-                <img src="<?php echo base_url()?>assets/frontend2/img\common\logo-3.png" class="white-logo" alt="logo">
-                <img src="<?php echo base_url()?>assets/frontend2/img\common\logo-3.png" class="black-logo" alt="logo">
+            <a class="navbar-brand" href="<?php echo base_url()?>">
+                <img src="<?php echo base_url()?>assets/frontend2/img/common/logo-3.png" class="white-logo" alt="logo">
+                <img src="<?php echo base_url()?>assets/frontend2/img/common/logo-3.png" class="black-logo" alt="logo">
             </a>
             <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a href="<?php echo base_url()?>b_data" class="nav-link">Homeeeeeeeeeeeeeeeeeeee</a></li>
-                    <li class="nav-item"><a href="<?php echo base_url()?>dataset" class="nav-link">Dataseeeeeeeeeeeeet</a></li>
+                    <li class="nav-item"><a href="<?php echo base_url()?>b_data" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="<?php echo base_url()?>dataset" class="nav-link">Dataset</a></li>
                     <!-- <li class="nav-item"> <a href="#!" class="nav-link">Dataset<i class="fas fa-chevron-down"></i></a>
                         <ul class="dropdown-menu">
                             <li class="nav-item"><a href="service.html" class="nav-link">BPS</a></li>
@@ -30,10 +30,10 @@
                             <li class="nav-item"><a href="service-details.html" class="nav-link">Kecamatan</a></li>
                         </ul>
                     </li> -->
-                    <li class="nav-item"> <a href="#!" class="nav-link">Publikasi</a></li>
-                    <li class="nav-item"> <a href="#!" class="nav-link">Request Data</a></li>
+                    <li class="nav-item"> <a href="#" class="nav-link">Publikasi</a></li>
+                    <li class="nav-item"> <a href="#" class="nav-link">Request Data</a></li>
                 </ul>
-                <div class="other-option"> <a class="btn btn-theme" href="contact.html">Login</a></div>
+                <div class="other-option"> <a class="btn btn-theme" href="#">Login</a></div>
             </div>
         </nav>
     </div>

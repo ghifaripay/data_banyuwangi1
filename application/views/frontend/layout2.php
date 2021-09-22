@@ -51,7 +51,7 @@
     </div>
     <!--end preloder-->
     <!-- Navber Area Start -->
-    <div class="navbar-area box-shadow" id="bg-white">
+    <!-- <div class="navbar-area box-shadow" id="bg-white">
        <div class="plamb-responsive-nav">
           <div class="container">
              <div class="plamb-responsive-menu">
@@ -75,13 +75,6 @@
                    <ul class="navbar-nav">
                       <li class="nav-item"><a href="<?php echo base_url()?>b_data" class="nav-link">Home</a></li>
                       <li class="nav-item"><a href="<?php echo base_url()?>dataset" class="nav-link">Data</a></li>
-                      <!-- <li class="nav-item"> <a href="#!" class="nav-link">Dataset<i class="fas fa-chevron-down"></i></a>
-                         <ul class="dropdown-menu">
-                             <li class="nav-item"><a href="service.html" class="nav-link">BPS</a></li>
-                             <li class="nav-item"><a href="service-2.html" class="nav-link">Sektoral</a></li>
-                             <li class="nav-item"><a href="service-details.html" class="nav-link">Kecamatan</a></li>
-                         </ul>
-                         </li> -->
                       <li class="nav-item"> <a href="#!" class="nav-link">Publikasi</a></li>
                       <li class="nav-item"> <a href="#!" class="nav-link">Request Data</a></li>
                    </ul>
@@ -89,7 +82,7 @@
              </nav>
           </div>
        </div>
-    </div>
+    </div> -->
     <!-- Navbar Area End -->
 
 
